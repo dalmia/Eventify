@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/submit_button_click_background" android:state_pressed="true" />
+
+    <!-- When the view is "activated".  In SINGLE_CHOICE_MODE, it flags the active row
+         of a ListView -->
+    <item android:drawable="@drawable/submit_button_click_background" android:state_activated="true" />
+
+    <!-- Default, "just hangin' out" state. -->
+    <item android:drawable="@drawable/submit_button_background" />
+</selector>

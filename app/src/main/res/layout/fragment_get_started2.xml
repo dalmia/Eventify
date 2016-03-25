@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.iitguwahati.prendre.fragments.GetStarted4"
+    android:background="#ffffff"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:id="@+id/imageView4"
+        android:src="@drawable/firstimage3"
+        android:layout_weight=".9" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:text="Add Tasks and reminders easily in the app and forget forgetting ANYTHING."
+        android:id="@+id/textView9"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_weight=".1" />
+
+</LinearLayout>

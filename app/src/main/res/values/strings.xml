@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Eventify</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string-array name="names">
+        <item>Aman</item>
+        <item>Sandeep</item>
+    </string-array>
+
+    <string-array name="webmails">
+        <item>a.dalmia</item>
+        <item>sandeep.veethu</item>
+    </string-array>
+</resources>
